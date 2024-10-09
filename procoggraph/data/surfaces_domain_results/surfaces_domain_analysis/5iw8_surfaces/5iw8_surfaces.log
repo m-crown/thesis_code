@@ -1,0 +1,28 @@
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.10113455819499999' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.13097928310100002' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.0019286814749999999' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.039680501683999995' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.046299157476' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.006389233322000001' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.03976757517500001' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.020512801718' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.085413961252' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.0015254283000000002' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.04790209797' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.04192178648' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.12202404582000001' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)
+/Users/matthewcrown/Surfaces/surface_cont_lig.py:109: FutureWarning: Setting an item of incompatible dtype is deprecated and will raise in a future error of pandas. Value '-0.04669635273' has dtype incompatible with int64, please explicitly cast to a compatible dtype first.
+  matrix.loc[main_residue, atom_name] += (surf * score(main_attype, main_res, attype, res, def_file, dat_file) * scale_factor)

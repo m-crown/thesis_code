@@ -1,0 +1,28 @@
+pdb_id,hetCode,sugarName,dbxref,note
+5h1y,SO4,,C00009,
+1dvr,ATF,,C00002,
+5cg2,NAD,,C00003,
+1gp6,QUE,,C05906,
+4hn2,ANP,,C00002,
+4hn2,0EJ,,C11526,
+1rx0,2MC,,C00016,
+5cns,CDP,,C00112,
+1gxo,SUGAR,alpha-D-galactopyranuronic acid-(1-4)-alpha-D-galactopyranuronic acid-(1-4)-alpha-D-galactopyranuronic acid,C00470,
+1a8i,GLS,,C01487,inhibitor
+4km0,ATR,,C00006,
+1jut,UMP,,C00365,
+1tth,PAL,,C00049,
+2wsi,FAD,,C00016,
+4xdt,FAD,,C00016,
+1a8r,GTP,,C00044,
+1wuq,8GT,,C00044,
+1ktg,AMP,,C00020,caution here on enzyme in kegg also acts on amp problem
+5t14,DZ4,,C00131,
+5uip,8DM,,C00101,
+6omk,MYA,,C02593,
+6mgg,COA,,C00010,
+4d9p,Z17,,C01300,lower than 0.5 but is an inhibitor sulfonamide
+4l8w,MTX,,C00101,methotrexate and hydrofolate
+5jq9,6MB,,C00921,DHPS inhibitor
+6o82,JZU,,C00020,amp and an amp-ubiqutin conjugate (but ub not considered in score)
+6e6p,GNP,,C00044,GTP analog GppNHp

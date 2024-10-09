@@ -1,0 +1,14 @@
+#manually inspect the uniprot taxonomy for contigs with plastoqunione/plastoquinol binding
+uniprot_accession,taxonomy
+Q7U4Z3,Parasynechococcus marenigrum (cyanobacteria)
+Q06473,Synechocystis sp. PCC 6803 (cyanobacteria)
+Q3AYB8,unclassified Synechococcus (cyanobacteria)
+Q3AV15,unclassified Synechococcus (cyanobacteria)
+Q6H956,Synechococcus phage S-RSM2 (cyanophage)
+Q6H952,Synechococcus phage S-WHM1 (cyanophage)
+P31694,unclassified Nostoc (cyanobacteria)
+Q8DIV4,Thermosynechococcus vestitus (cyanobacteria)
+Q0QZ08,Synechococcus phage syn9 (cyanophage)
+A5GTY4,unclassified Synechococcus (cyanobacteria)
+Q0I7J2,unclassified Synechococcus (cyanobacteria)
+Q3AM89,unclassified Synechococcus (cyanobacteria)

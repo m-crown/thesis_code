@@ -1,0 +1,9 @@
+,0,0,0,0,0,0
+type,CATH,SCOP,Pfam,SUPERFAMILY,Gene3D,SCOP2
+PDB Entries,61473,17166,89805,74473,60500,64945
+Num Groups,1907,762,3960,874,1148,1054
+EC numbers (only absolutely defined),2831,1694,3282,2775,2435,2292
+EC Numbers (including expanded partial),6652,6313,6689,6651,6648,6606
+Ligands In Database,297547,76446,433442,359828,293741,309522
+Ligands with Mapping (0.4 cutoff),104449,28823,151529,125909,102807,101297
+Number of cognate ligands mapped,2296,1189,2710,2340,2098,2114

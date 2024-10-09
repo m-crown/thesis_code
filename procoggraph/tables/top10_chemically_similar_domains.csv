@@ -1,0 +1,11 @@
+,chs,chs_desc,num_cogligs,sim_mean,sim_std,similar/dissimilar
+0,6.10.250.170,Single alpha-helices involved in coiled-coils or other helix-helix interfaces,4.0,1.0,0.0,similar
+1,1.10.400.10,"GI Alpha 1, domain 2-like",4.0,0.971830985915493,0.01991850087849432,similar
+2,1.10.1470.20,Fatty acid synthase; domain 2,4.0,0.9682539682539683,0.022447834323382487,similar
+3,1.10.12.10,"Lyase 2-enoyl-coa Hydratase, Chain  A, domain 2",8.0,0.9565479192940608,0.022272943090575238,similar
+4,1.20.89.20,"Nitrogenase Molybdenum-iron Protein, subunit B; domain 4",5.0,0.9470588235294117,0.04322628957852668,similar
+5,2.60.200.30,Probable inorganic polyphosphate/atp-NAD kinase; domain 2,5.0,0.9377163742690058,0.03263585314919722,similar
+6,3.40.1500.20,oxygen-dependent coproporphyrinogen oxidase,12.0,0.9083023088803177,0.07252944447856839,similar
+7,3.30.230.40,Imidazole glycerol phosphate dehydratase; domain 1,4.0,0.8838295704755331,0.06763656773017877,similar
+8,3.30.70.370,Alpha-Beta Plaits,7.0,0.8669004214895446,0.05976191077055482,similar
+9,3.40.50.10830,F420-dependent methylenetetrahydromethanopterin dehydrogenase (MTD),6.0,0.8644232790784516,0.08118567045242787,similar

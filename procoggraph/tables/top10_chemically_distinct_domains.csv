@@ -1,0 +1,11 @@
+,chs,chs_desc,num_cogligs,sim_mean,sim_std,similar/dissimilar
+459,1.10.1840.10,"main proteinase (3clpro) structure, domain 3",4.0,0.10520541549953315,0.08272947011798913,dissimilar
+458,1.10.620.20,"Ribonucleotide Reductase, subunit A",24.0,0.136387844393494,0.15005769751925654,dissimilar
+457,1.20.210.10,"Cytochrome c oxidase-like, subunit I domain",7.0,0.13767684524990512,0.2271064493553467,dissimilar
+456,1.20.1260.10,Ferritin,20.0,0.14378518985855288,0.17976566840850963,dissimilar
+455,2.70.98.20,"Copper amine oxidase, catalytic domain",18.0,0.15287277743361333,0.1768898573713625,dissimilar
+454,1.10.760.10,Cytochrome c-like domain,21.0,0.15624517335240018,0.18381543890159838,dissimilar
+453,3.30.413.10,"Sulfite Reductase Hemoprotein, domain 1",7.0,0.16018262287529728,0.22501743514801512,dissimilar
+451,1.10.472.20,"Nitrile hydratase, beta subunit",5.0,0.16360653235653236,0.1897162339914762,dissimilar
+452,3.90.330.10,Nitrile hydratase alpha /Thiocyanate hydrolase gamma,5.0,0.16360653235653236,0.1897162339914762,dissimilar
+450,2.60.40.420,Cupredoxins -  blue copper proteins,19.0,0.16597897572039474,0.18759550846818518,dissimilar

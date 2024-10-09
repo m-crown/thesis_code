@@ -1,0 +1,22 @@
+#first 20 common drugs from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6177714/ , where smiles available in Drugbank (smiles accessed using https://go.drugbank.com/drugs)
+rank,drug_class_bnf-group,common_example,example_smiles,example_drugbank_id
+1,Proton pump inhibitors,omeprazole,COC1=CC2=C(C=C1)N=C(N2)S(=O)CC1=NC=C(C)C(OC)=C1C,DB00338
+2,Statins,simvastatin,[H][C@]12[C@H](C[C@@H](C)C=C1C=C[C@H](C)[C@@H]2CC[C@@H]1C[C@@H](O)CC(=O)O1)OC(=O)C(C)(C)CC,DB00641
+3,Paracetamol,Paracetamol,CC(=O)NC1=CC=C(O)C=C1,DB00316
+4,Beta‐blockers,bisoprolol,CC(C)NCC(O)COC1=CC=C(COCCOC(C)C)C=C1,DB00612
+6,Calcium‐channel blockers,amlodipine,CCOC(=O)C1=C(COCCN)NC(C)=C(C1C1=CC=CC=C1Cl)C(=O)OC,DB00381
+7,H1 receptor antagonists,cyclizine,CN1CCN(CC1)C(C1=CC=CC=C1)C1=CC=CC=C1,DB01176
+8,Aspirin,Aspirin,CC(=O)OC1=CC=CC=C1C(O)=O,DB00945
+9,Opioids: weak/moderate,tramadol,COC1=CC=CC(=C1)C1(O)CCCCC1CN(C)C,DB00193
+10,Opioids: strong,morphine,[H][C@@]12OC3=C(O)C=CC4=C3[C@@]11CCN(C)[C@]([H])(C4)[C@]1([H])C=C[C@@H]2O,DB00295
+11,Beta2 agonists,salbutamol,CC(C)(C)NCC(O)C1=CC(CO)=C(O)C=C1,DB01001
+12,Angiotensin‐converting enzyme inhibitors,ramipril,[H][C@@]12CCC[C@]1([H])N([C@@H](C2)C(O)=O)C(=O)[C@H](C)N[C@@H](CCC1=CC=CC=C1)C(=O)OCC,DB00178
+13,"Diuretics, loop",furosemide,NS(=O)(=O)C1=C(Cl)C=C(NCC2=CC=CO2)C(=C1)C(O)=O,DB00695
+14,Vitamin K antagonists,warfarin,CC(=O)CC(C1=CC=CC=C1)C1=C(O)C2=C(OC1=O)C=CC=C2,DB00682
+15,Vitamins,folic acid,NC1=NC(=O)C2=NC(CNC3=CC=C(C=C3)C(=O)N[C@@H](CCC(O)=O)C(O)=O)=CN=C2N1,DB00158
+16,Non‐steroidal anti‐inflammatory drugs,naproxen,COC1=CC2=C(C=C1)C=C(C=C2)[C@H](C)C(O)=O,DB00788
+17,"Penicillins, broad spectrum",amoxicillin,[H][C@]12SC(C)(C)[C@@H](N1C(=O)[C@H]2NC(=O)[C@H](N)C1=CC=C(O)C=C1)C(O)=O,DB01060
+18,Laxatives - osmotic,lactulose,OC[C@H]1O[C@](O)(CO)[C@@H](O)[C@@H]1O[C@@H]1O[C@H](CO)[C@H](O)[C@H](O)[C@H]1O,DB00581
+19,"Anti‐depressants, selective serotonin re‐uptake inhibitors",sertraline,CN[C@H]1CC[C@@H](C2=CC(Cl)=C(Cl)C=C2)C2=CC=CC=C12,DB01104
+20,"Corticosteroids, systemic",prednisolone,[H][C@@]12CC[C@](O)(C(=O)CO)[C@@]1(C)C[C@H](O)[C@@]1([H])[C@@]2([H])CCC2=CC(=O)C=C[C@]12C,DB00860
+21,"Laxatives, stimulant",docusate sodium,CCCCC(CC)COC(=O)CC(C(=O)OCC(CC)CCCC)S(O)(=O)=O,DB11089
