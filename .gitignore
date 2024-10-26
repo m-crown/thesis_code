@@ -2,3 +2,4 @@
 .DS_Store
 /alphacognate/figures/.ipynb_checkpoints
 *.png
+*.ipynb

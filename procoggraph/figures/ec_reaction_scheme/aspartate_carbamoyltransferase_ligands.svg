@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="204.494mm"
+   height="97.790024mm"
+   viewBox="0 0 204.494 97.790024"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="aspartate_carbamoyltransferase_ligands.svg"
+   inkscape:export-filename="aspartate_carbamoyltransferase_ligands.pdf"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4204315"
+     inkscape:cx="286.88465"
+     inkscape:cy="268.22835"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="1440"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Stop"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path23" />
+    </marker>
+    <rect
+       x="135.29716"
+       y="229.74989"
+       width="589.69141"
+       height="31.909704"
+       id="rect1" />
+    <rect
+       x="135.29716"
+       y="229.74989"
+       width="589.69141"
+       height="31.909704"
+       id="rect1-6" />
+    <rect
+       x="135.29716"
+       y="229.74989"
+       width="589.69141"
+       height="31.909704"
+       id="rect1-6-2" />
+    <rect
+       x="135.29716"
+       y="229.74989"
+       width="589.69141"
+       height="31.909704"
+       id="rect1-6-2-8" />
+    <rect
+       x="135.29716"
+       y="229.74989"
+       width="589.69141"
+       height="31.909704"
+       id="rect1-6-2-8-4" />
+    <rect
+       x="135.29716"
+       y="229.74989"
+       width="589.69141"
+       height="31.909704"
+       id="rect1-6-2-8-1" />
+    <rect
+       x="135.29716"
+       y="229.74989"
+       width="589.69141"
+       height="31.909704"
+       id="rect1-6-2-8-7" />
+    <rect
+       x="135.29716"
+       y="229.74989"
+       width="589.69141"
+       height="31.909704"
+       id="rect1-6-2-8-7-5" />
+    <rect
+       x="135.29716"
+       y="229.74989"
+       width="589.69141"
+       height="31.909704"
+       id="rect1-6-2-8-7-53" />
+    <rect
+       x="135.29716"
+       y="229.74989"
+       width="589.69141"
+       height="31.909704"
+       id="rect1-6-2-8-7-53-0" />
+    <rect
+       x="135.29716"
+       y="229.74989"
+       width="589.69141"
+       height="31.909704"
+       id="rect1-6-2-8-7-4" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-3.5919923,-60.458739)">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-12.080435,2.7016885)"
+       id="text1"
+       style="font-size:24px;line-height:0;font-family:Sans;-inkscape-font-specification:'Sans, Normal';text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000;stroke-width:0"><tspan
+         x="162.1582"
+         y="236.64593"
+         id="tspan1">EC 2.1.3.2: Aspartate Carbamoyltransferase</tspan></text>
+    <rect
+       style="fill:#a9d8a0;fill-opacity:0.513158;stroke:#000000;stroke-width:0.440952;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2"
+       width="204.05305"
+       height="86.413078"
+       x="3.8124683"
+       y="71.615211" />
+    <rect
+       style="fill:#a9d8a0;fill-opacity:0.634211;stroke:#000000;stroke-width:0.318685;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-9"
+       width="198.70441"
+       height="46.350613"
+       x="6.6338124"
+       y="85.31382" />
+    <rect
+       style="fill:#a9d8a0;fill-opacity:1;stroke:#000000;stroke-width:0.230746;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-9-7"
+       width="194.52921"
+       height="24.821136"
+       x="8.7242422"
+       y="103.97662" />
+    <rect
+       style="fill:#a9d8a0;fill-opacity:1;stroke:#000000;stroke-width:0.14929;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-9-8"
+       width="87.800949"
+       height="23.020071"
+       x="16.409714"
+       y="133.7065" />
+    <rect
+       style="fill:#a9d8a0;fill-opacity:1;stroke:#000000;stroke-width:0.14929;stroke-dasharray:none;stroke-opacity:1"
+       id="rect2-9-5"
+       width="87.800949"
+       height="23.020071"
+       x="111.04706"
+       y="133.90147" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-96.570465,16.633486)"
+       id="text1-9"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-6);display:inline;fill:#000000;stroke-width:0"><tspan
+         x="395.33398"
+         y="234.34729"
+         id="tspan2">Ligands</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-80.226286,29.26323)"
+       id="text1-9-6"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-6-2);display:inline;fill:#000000;stroke-width:0"><tspan
+         x="337.80664"
+         y="234.34729"
+         id="tspan3">Endogenous Ligands</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-79.887235,47.762744)"
+       id="text1-9-6-8"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-6-2-8);display:inline;fill:#000000;stroke-width:0"><tspan
+         x="355.72461"
+         y="234.34729"
+         id="tspan4">Cognate Ligands</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-64.328709,58.899726)"
+       id="text1-9-6-8-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-6-2-8-7);display:inline;fill:#000000;stroke-width:0"><tspan
+         x="286.20117"
+         y="234.34729"
+         id="tspan5">carbamoyl phosphate + L-aspartate</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-19.463596,31.79791)"
+       id="text1-9-6-8-3-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-6-2-8-7-4);display:inline;fill:#000000;stroke-width:0"><tspan
+         x="414.80273"
+         y="234.34729"
+         id="tspan6">CTP</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-53.802465,87.982129)"
+       id="text1-9-6-8-3-3"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-6-2-8-7-53);display:inline;fill:#000000;stroke-width:0"><tspan
+         x="398.90039"
+         y="234.34729"
+         id="tspan7">glycerol</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,39.774263,87.982129)"
+       id="text1-9-6-8-3-3-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-6-2-8-7-53-0);display:inline;fill:#000000;stroke-width:0"><tspan
+         x="296.52148"
+         y="234.34729"
+         id="tspan8">N-(phosphonoacetyl)-L-aspartate</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,38.601753,58.662393)"
+       id="text1-9-6-8-3-9"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-6-2-8-7-5);display:inline;fill:#000000;stroke-width:0"><tspan
+         x="243.76758"
+         y="234.34729"
+         id="tspan9">H(+) + N-carbamoyl-L-aspartate + phosphate</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-72.820333,79.406507)"
+       id="text1-9-6-8-4"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-6-2-8-4);display:inline;fill:#000000;stroke-width:0"><tspan
+         x="343.63477"
+         y="234.34729"
+         id="tspan10">Buffer Components</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,22.992257,79.385837)"
+       id="text1-9-6-8-2"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16px;line-height:0;font-family:Sans;-inkscape-font-specification:'Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-decoration-color:#000000;white-space:pre;shape-inside:url(#rect1-6-2-8-1);display:inline;fill:#000000;stroke-width:0"><tspan
+         x="343.74805"
+         y="234.34729"
+         id="tspan11">Exogenous Ligands</tspan></text>
+    <path
+       style="fill:#ff0000;fill-opacity:0.634211;stroke:#ff0000;stroke-width:0.764;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Stop)"
+       d="M 94.947399,97.957651 V 111.74996"
+       id="path2" />
+    <path
+       style="fill:#ff0000;fill-opacity:0.634211;stroke:#1a1a1a;stroke-width:0.628621;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="m 89.778749,119.61898 h 9.337455"
+       id="path2-5" />
+  </g>
+</svg>

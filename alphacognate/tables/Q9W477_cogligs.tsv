@@ -1,0 +1,16 @@
+,accession,hetCode,interaction,compound_name,ecList
+14042553,AF-Q9W477-F1-model_4,MPD,3.40.630.10:exclusive,N-Acetyl-L-aspartate,3.4.17.21
+14042554,AF-Q9W477-F1-model_4,VAL,3.40.630.10:exclusive,Glutamate,"3.4.17.24,3.4.17.21"
+14042555,AF-Q9W477-F1-model_4,VAL,3.40.630.10:exclusive,Cysteine,3.13.1.6
+14042556,AF-Q9W477-F1-model_4,VAL,3.40.630.10:exclusive,D-tyrosine,3.4.17.17
+14042559,AF-Q9W477-F1-model_4,VAL,3.40.630.10:exclusive,Alanine,"3.4.17.13,3.4.17.8,3.5.1.28"
+14042560,AF-Q9W477-F1-model_4,VAL,3.40.630.10:exclusive,D-phenylalanine,3.4.17.23
+14042561,AF-Q9W477-F1-model_4,VAL,3.40.630.10:exclusive,Glycine,3.4.17.25
+14042709,AF-Q9W477-F1-model_4,GOL,3.40.630.10:exclusive,Cysteine,3.13.1.6
+14042712,AF-Q9W477-F1-model_4,ASP,3.40.630.10:exclusive,D-tyrosine,3.4.17.17
+14042713,AF-Q9W477-F1-model_4,ASP,3.40.630.10:exclusive,Cysteine,3.13.1.6
+14042714,AF-Q9W477-F1-model_4,ASP,3.40.630.10:exclusive,D-phenylalanine,3.4.17.23
+14042715,AF-Q9W477-F1-model_4,ASP,3.40.630.10:exclusive,Glutamate,3.4.17.24
+14042716,AF-Q9W477-F1-model_4,ASP,3.40.630.10:exclusive,Alanine,"3.4.17.13,3.4.17.8,3.5.1.28"
+14042717,AF-Q9W477-F1-model_4,ASP,3.40.630.10:exclusive,N-Acetyl-L-aspartate,3.4.17.21
+14042719,AF-Q9W477-F1-model_4,ASP,3.40.630.10:exclusive,Glycine,3.4.17.25

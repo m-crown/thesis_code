@@ -1,0 +1,11 @@
+,interaction,interaction_count,domains,isPromiscuous,domain_description,domain_sim_mean
+0,1.10.510.10:partner;3.30.200.20:major_partner,697693,"['1.10.510.10', '3.30.200.20']","Yes,Yes","['Transferase(Phosphotransferase) domain 1', 'Phosphorylase Kinase; domain 1']","[0.3749102041064986, 0.3425700608259681]"
+1,3.40.50.300:exclusive,405621,['3.40.50.300'],Yes,['P-loop containing nucleotide triphosphate hydrolases'],[0.3285173943843047]
+2,1.10.510.10:exclusive,350777,['1.10.510.10'],Yes,['Transferase(Phosphotransferase) domain 1'],[0.3749102041064986]
+3,1.10.630.10:exclusive,167591,['1.10.630.10'],Yes,['Cytochrome P450'],[0.2658317025909928]
+4,2.40.10.10:exclusive,108789,['2.40.10.10'],Yes,['Trypsin-like serine proteases'],[0.2221190580273023]
+5,1.10.510.10:major_partner;3.30.200.20:partner,98675,"['1.10.510.10', '3.30.200.20']","Yes,Yes","['Transferase(Phosphotransferase) domain 1', 'Phosphorylase Kinase; domain 1']","[0.3749102041064986, 0.3425700608259681]"
+6,3.90.70.10:exclusive,86868,['3.90.70.10'],No,[None],[None]
+7,3.40.50.720:exclusive,86050,['3.40.50.720'],Yes,['NAD(P)-binding Rossmann-like Domain'],[0.2853025453368425]
+8,3.40.50.1820:exclusive,85545,['3.40.50.1820'],Yes,['alpha/beta hydrolase'],[0.2372807104167119]
+9,3.40.50.150:exclusive,79784,['3.40.50.150'],Yes,['Vaccinia Virus protein VP39'],[0.27420383463243]
